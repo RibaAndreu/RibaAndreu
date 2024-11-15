@@ -1,4 +1,6 @@
 # 👋 Hello World
+![image](https://github.com/user-attachments/assets/9370da93-7763-480c-ac51-03ca609ff8ee)
+
 
 Me llamo Andreu y estudio un grado superior de desarrollo de aplicaciones multimedia en el centro La Salle Gràcia. 🚀
 
