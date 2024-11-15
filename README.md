@@ -5,7 +5,7 @@ Me llamo Andreu y estudio un grado superior de desarrollo de aplicaciones multim
 Soy un apasionado de la programación y todo lo que tenga que ver con la tecnología. 💻 Siempre estoy buscando nuevas formas de mejorar mis habilidades y resolver problemas con código.
 
 ### 💻 Tecnologías y Herramientas  
-- **Lenguajes:** Python, Java, C++   
+- **Lenguajes:** Python y Java 
 - **Bases de Datos:** MySQL 
 - **Herramientas:** Git, GitHub, VS Code, IntelliJ y VirtualBox 
 
