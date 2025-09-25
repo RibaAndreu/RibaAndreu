@@ -39,6 +39,24 @@ Actualmente, estoy en proceso de aprender a desenvolverme con muchos lenguajes d
 - **Email:** (andreu.riba@gracia.lasalle.cat)  
 
 
+## 📊 Mi experiencia en GitHub
+
+<div align="center">
+
+🔥 **Estadísticas de actividad**
+
+---
+
+📈 **Mis stats en GitHub**
+
+![Andreu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RibaAndreu&show_icons=true&theme=radical)
+
+🌍 **Lenguajes más usados**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RibaAndreu&layout=compact&theme=radical)
+
+</div>
+
 <!---
 RibaAndreu/RibaAndreu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
