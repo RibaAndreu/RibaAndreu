@@ -1,7 +1,6 @@
 # 👋 Hello World
 ![image](https://github.com/user-attachments/assets/9370da93-7763-480c-ac51-03ca609ff8ee)
 
-
 Me llamo Andreu y estudio un grado superior de desarrollo de aplicaciones multimedia en el centro La Salle Gràcia. 🚀
 
 Soy un apasionado de la programación y todo lo que tenga que ver con la tecnología. 💻 Siempre estoy buscando nuevas formas de mejorar mis habilidades y resolver problemas con código.
@@ -54,6 +53,10 @@ Actualmente, estoy en proceso de aprender a desenvolverme con muchos lenguajes d
 🌍 **Lenguajes más usados**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RibaAndreu&layout=compact&theme=radical)
+
+---
+
+![Gif](https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif)
 
 </div>
 
